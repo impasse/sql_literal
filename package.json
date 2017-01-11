@@ -1,0 +1,31 @@
+{
+  "name": "sql_literal",
+  "version": "1.0.0",
+  "description": "SQL Literal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingmm/sql_literal.git"
+  },
+  "keywords": [
+    "mysql",
+    "es6",
+    "string",
+    "literal"
+  ],
+  "author": "ling <i@shyling.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lingmm/sql_literal/issues"
+  },
+  "homepage": "https://github.com/lingmm/sql_literal#readme",
+  "dependencies": {
+    "mysql2": "^1.1.2"
+  },
+  "engines": {
+    "node": "7.0.0"
+  }
+}
